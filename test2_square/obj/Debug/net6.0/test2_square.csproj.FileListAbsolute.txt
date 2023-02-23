@@ -1,0 +1,15 @@
+C:\Users\orm\Desktop\Geek\Work\C#\С#Seminar1\test2_square\bin\Debug\net6.0\test2_square.exe
+C:\Users\orm\Desktop\Geek\Work\C#\С#Seminar1\test2_square\bin\Debug\net6.0\test2_square.deps.json
+C:\Users\orm\Desktop\Geek\Work\C#\С#Seminar1\test2_square\bin\Debug\net6.0\test2_square.runtimeconfig.json
+C:\Users\orm\Desktop\Geek\Work\C#\С#Seminar1\test2_square\bin\Debug\net6.0\test2_square.dll
+C:\Users\orm\Desktop\Geek\Work\C#\С#Seminar1\test2_square\bin\Debug\net6.0\test2_square.pdb
+C:\Users\orm\Desktop\Geek\Work\C#\С#Seminar1\test2_square\obj\Debug\net6.0\test2_square.csproj.AssemblyReference.cache
+C:\Users\orm\Desktop\Geek\Work\C#\С#Seminar1\test2_square\obj\Debug\net6.0\test2_square.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orm\Desktop\Geek\Work\C#\С#Seminar1\test2_square\obj\Debug\net6.0\test2_square.AssemblyInfoInputs.cache
+C:\Users\orm\Desktop\Geek\Work\C#\С#Seminar1\test2_square\obj\Debug\net6.0\test2_square.AssemblyInfo.cs
+C:\Users\orm\Desktop\Geek\Work\C#\С#Seminar1\test2_square\obj\Debug\net6.0\test2_square.csproj.CoreCompileInputs.cache
+C:\Users\orm\Desktop\Geek\Work\C#\С#Seminar1\test2_square\obj\Debug\net6.0\test2_square.dll
+C:\Users\orm\Desktop\Geek\Work\C#\С#Seminar1\test2_square\obj\Debug\net6.0\refint\test2_square.dll
+C:\Users\orm\Desktop\Geek\Work\C#\С#Seminar1\test2_square\obj\Debug\net6.0\test2_square.pdb
+C:\Users\orm\Desktop\Geek\Work\C#\С#Seminar1\test2_square\obj\Debug\net6.0\test2_square.genruntimeconfig.cache
+C:\Users\orm\Desktop\Geek\Work\C#\С#Seminar1\test2_square\obj\Debug\net6.0\ref\test2_square.dll
