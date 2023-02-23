@@ -1,0 +1,15 @@
+C:\Users\orm\Desktop\Geek\Work\C#\С#Seminar1\test3_week\obj\Debug\net6.0\test3_week.csproj.AssemblyReference.cache
+C:\Users\orm\Desktop\Geek\Work\C#\С#Seminar1\test3_week\obj\Debug\net6.0\test3_week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orm\Desktop\Geek\Work\C#\С#Seminar1\test3_week\obj\Debug\net6.0\test3_week.AssemblyInfoInputs.cache
+C:\Users\orm\Desktop\Geek\Work\C#\С#Seminar1\test3_week\obj\Debug\net6.0\test3_week.AssemblyInfo.cs
+C:\Users\orm\Desktop\Geek\Work\C#\С#Seminar1\test3_week\obj\Debug\net6.0\test3_week.csproj.CoreCompileInputs.cache
+C:\Users\orm\Desktop\Geek\Work\C#\С#Seminar1\test3_week\bin\Debug\net6.0\test3_week.exe
+C:\Users\orm\Desktop\Geek\Work\C#\С#Seminar1\test3_week\bin\Debug\net6.0\test3_week.deps.json
+C:\Users\orm\Desktop\Geek\Work\C#\С#Seminar1\test3_week\bin\Debug\net6.0\test3_week.runtimeconfig.json
+C:\Users\orm\Desktop\Geek\Work\C#\С#Seminar1\test3_week\bin\Debug\net6.0\test3_week.dll
+C:\Users\orm\Desktop\Geek\Work\C#\С#Seminar1\test3_week\bin\Debug\net6.0\test3_week.pdb
+C:\Users\orm\Desktop\Geek\Work\C#\С#Seminar1\test3_week\obj\Debug\net6.0\test3_week.dll
+C:\Users\orm\Desktop\Geek\Work\C#\С#Seminar1\test3_week\obj\Debug\net6.0\refint\test3_week.dll
+C:\Users\orm\Desktop\Geek\Work\C#\С#Seminar1\test3_week\obj\Debug\net6.0\test3_week.pdb
+C:\Users\orm\Desktop\Geek\Work\C#\С#Seminar1\test3_week\obj\Debug\net6.0\test3_week.genruntimeconfig.cache
+C:\Users\orm\Desktop\Geek\Work\C#\С#Seminar1\test3_week\obj\Debug\net6.0\ref\test3_week.dll
